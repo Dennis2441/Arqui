@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Arqui/static/css/main.83b29b8f.css",
-    "main.js": "/Arqui/static/js/main.c984b972.js",
+    "main.js": "/Arqui/static/js/main.cc0abe4a.js",
     "static/js/787.7ecd69d1.chunk.js": "/Arqui/static/js/787.7ecd69d1.chunk.js",
     "index.html": "/Arqui/index.html",
     "main.83b29b8f.css.map": "/Arqui/static/css/main.83b29b8f.css.map",
-    "main.c984b972.js.map": "/Arqui/static/js/main.c984b972.js.map",
+    "main.cc0abe4a.js.map": "/Arqui/static/js/main.cc0abe4a.js.map",
     "787.7ecd69d1.chunk.js.map": "/Arqui/static/js/787.7ecd69d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83b29b8f.css",
-    "static/js/main.c984b972.js"
+    "static/js/main.cc0abe4a.js"
   ]
 }
